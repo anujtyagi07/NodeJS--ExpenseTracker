@@ -37,10 +37,3 @@ Use tools like **Postman** or **Thunder Client** to interact with the API endpoi
 
 ---
 
-## 🧪 How to Run Locally
-
-1. **Clone the Repository**
-
-```bash
-git clone https://github.com/walidbosso/Nodejs_ExpenseTracker.git
-cd Nodejs_ExpenseTracker
